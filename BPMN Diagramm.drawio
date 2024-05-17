@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2024-05-17T07:53:30.969Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" version="24.4.3" etag="-66pGwwsldY5xtws4wH0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-17T08:45:01.726Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="kJYPyMf097PwvCuZKPFB" version="24.4.3" type="github">
   <diagram name="Seite-1" id="e3gTe7wbns6cE2BKe8TQ">
-    <mxGraphModel>
+    <mxGraphModel dx="847" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qcsIHLgInA1QgSfUokJL-1" value="h" style="swimlane;html=1;startSize=20;fontStyle=0;collapsible=0;horizontal=0;swimlaneLine=1;swimlaneFillColor=#ffffff;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="80" y="440" width="1030" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="qcsIHLgInA1QgSfUokJL-4" value="erfordert Anmeldung" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;" vertex="1" parent="qcsIHLgInA1QgSfUokJL-1">
+          <mxGeometry x="60" y="31" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qcsIHLgInA1QgSfUokJL-7" value="Kontakt zum DOJO-Programmbereich" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" vertex="1" parent="qcsIHLgInA1QgSfUokJL-1">
+          <mxGeometry x="190" y="16" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qcsIHLgInA1QgSfUokJL-8" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="qcsIHLgInA1QgSfUokJL-1" source="qcsIHLgInA1QgSfUokJL-4" target="qcsIHLgInA1QgSfUokJL-7">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="90" y="111" as="sourcePoint" />
+            <mxPoint x="180" y="56" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qcsIHLgInA1QgSfUokJL-10" value="Antwort erhalten" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=throwing;symbol=general;" vertex="1" parent="qcsIHLgInA1QgSfUokJL-1">
+          <mxGeometry x="400" y="31" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qcsIHLgInA1QgSfUokJL-11" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="qcsIHLgInA1QgSfUokJL-1" source="qcsIHLgInA1QgSfUokJL-7" target="qcsIHLgInA1QgSfUokJL-10">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="334" y="144.5" as="sourcePoint" />
+            <mxPoint x="390" y="56" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qcsIHLgInA1QgSfUokJL-2" value="DOJO-Schule" style="swimlane;html=1;startSize=20;fontStyle=0;collapsible=0;horizontal=0;swimlaneLine=1;swimlaneFillColor=#ffffff;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="60" y="650" width="490" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="qcsIHLgInA1QgSfUokJL-3" value="Sensei" style="swimlane;html=1;startSize=20;fontStyle=0;collapsible=0;horizontal=0;swimlaneLine=0;fillColor=none;whiteSpace=wrap;" vertex="1" parent="qcsIHLgInA1QgSfUokJL-2">
+          <mxGeometry x="20" width="440" height="170" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
