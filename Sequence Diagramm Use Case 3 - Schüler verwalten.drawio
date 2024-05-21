@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-21T19:18:24.161Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="EZyvK2K6GNbij9TFDG9X" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-21T19:18:34.521Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="QWYx3RHL86LRkBNePIlY" version="24.4.4" type="github">
   <diagram name="Seite-1" id="GB2Q8OnwF6qq9BIMVXFV">
     <mxGraphModel dx="2288" dy="2287" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -148,9 +148,6 @@
         <mxCell id="ui6UdAxHdeox8us72X0l-10" value="&quot;Ich möchte mich von einer DOJO-Schulung abmelden&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="iT4GloKtLytV3V8M5QPG-9">
           <mxGeometry x="-300" y="745" width="320" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ui6UdAxHdeox8us72X0l-18" value="&quot;&lt;span style=&quot;background-color: initial;&quot;&gt;E-Mail-Benachrichtigung senden &lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="iT4GloKtLytV3V8M5QPG-9">
-          <mxGeometry x="-220" y="815" width="210" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="ui6UdAxHdeox8us72X0l-19" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.8;entryY=0.352;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="iT4GloKtLytV3V8M5QPG-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-351" y="855.96" as="targetPoint" />
@@ -268,6 +265,9 @@
             <mxPoint x="90" y="550" as="sourcePoint" />
             <mxPoint x="1150.63" y="550" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ui6UdAxHdeox8us72X0l-18" value="&quot;&lt;span style=&quot;background-color: initial;&quot;&gt;E-Mail-Benachrichtigung senden &lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="265" y="760" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
